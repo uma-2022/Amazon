@@ -1,0 +1,392 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-24T11:28:17.482Z",
+        "line": 11,
+        "name": "Login Page",
+        "description": "",
+        "id": "hotel-booking;login-page;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 10630735200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Launch The Url Page",
+            "match": {
+              "location": "org.adactin.stepdef.Step_Def.user_launch_the_url_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 384183000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Enter The \"Aaa\" In Username Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Aaa\"",
+                  "offset": 15
+                }
+              ],
+              "location": "org.adactin.stepdef.Step_Def.user_enter_the_in_username_field(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 264176500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user Enter The \"globe123\" In Password Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"globe123\"",
+                  "offset": 15
+                }
+              ],
+              "location": "org.adactin.stepdef.Step_Def.user_enter_the_in_password_field(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 808931900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user Click On The Login Btn and It Navigates To Adactin.com-Search Hotel",
+            "match": {
+              "location": "org.adactin.stepdef.Step_Def.user_click_on_the_login_btn_and_it_navigates_to_adactin_com_search_hotel()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Ad"
+          },
+          {
+            "name": "@Ad1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-24T11:28:30.052Z",
+        "line": 12,
+        "name": "Login Page",
+        "description": "",
+        "id": "hotel-booking;login-page;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 481412400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Launch The Url Page",
+            "match": {
+              "location": "org.adactin.stepdef.Step_Def.user_launch_the_url_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 260172700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Enter The \"Baa\" In Username Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Baa\"",
+                  "offset": 15
+                }
+              ],
+              "location": "org.adactin.stepdef.Step_Def.user_enter_the_in_username_field(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 249172800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user Enter The \"nature123\" In Password Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"nature123\"",
+                  "offset": 15
+                }
+              ],
+              "location": "org.adactin.stepdef.Step_Def.user_enter_the_in_password_field(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 737975300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user Click On The Login Btn and It Navigates To Adactin.com-Search Hotel",
+            "match": {
+              "location": "org.adactin.stepdef.Step_Def.user_click_on_the_login_btn_and_it_navigates_to_adactin_com_search_hotel()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Ad"
+          },
+          {
+            "name": "@Ad1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-24T11:28:31.832Z",
+        "line": 13,
+        "name": "Login Page",
+        "description": "",
+        "id": "hotel-booking;login-page;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 544144800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Launch The Url Page",
+            "match": {
+              "location": "org.adactin.stepdef.Step_Def.user_launch_the_url_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 281191800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Enter The \"umamahes\" In Username Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"umamahes\"",
+                  "offset": 15
+                }
+              ],
+              "location": "org.adactin.stepdef.Step_Def.user_enter_the_in_username_field(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 242160200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user Enter The \"world123\" In Password Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"world123\"",
+                  "offset": 15
+                }
+              ],
+              "location": "org.adactin.stepdef.Step_Def.user_enter_the_in_password_field(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1476592100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user Click On The Login Btn and It Navigates To Adactin.com-Search Hotel",
+            "match": {
+              "location": "org.adactin.stepdef.Step_Def.user_click_on_the_login_btn_and_it_navigates_to_adactin_com_search_hotel()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Ad"
+          },
+          {
+            "name": "@Ad1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-11-24T11:28:34.427Z",
+        "line": 16,
+        "name": "Search Hotel Page",
+        "description": "",
+        "id": "hotel-booking;search-hotel-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 622746400,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user Select Location From The Drop Down Menu Field",
+            "match": {
+              "location": "org.adactin.stepdef.Step_Def.user_select_location_from_the_drop_down_menu_field()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 336513000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user Select Hotels From The Drop Down Menu Field",
+            "match": {
+              "location": "org.adactin.stepdef.Step_Def.user_select_hotels_from_the_drop_down_menu_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 759140400,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user Select RoomType From The Drop Down Menu Field",
+            "match": {
+              "location": "org.adactin.stepdef.Step_Def.user_select_room_type_from_the_drop_down_menu_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 323096100,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user Select Number of Rooms From the Drop Down Menu Field",
+            "match": {
+              "location": "org.adactin.stepdef.Step_Def.user_select_number_of_rooms_from_the_drop_down_menu_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 251655900,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "user Enter the Checkin Date In Checkin Field",
+            "match": {
+              "location": "org.adactin.stepdef.Step_Def.user_enter_the_checkin_date_in_checkin_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 276883600,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "user Enter the Checkout Date In Checkout Field",
+            "match": {
+              "location": "org.adactin.stepdef.Step_Def.user_enter_the_checkout_date_in_checkout_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 232423800,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "user Select Adults Per Room From The Drop Down Menu Field",
+            "match": {
+              "location": "org.adactin.stepdef.Step_Def.user_select_adults_per_room_from_the_drop_down_menu_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 317206700,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "user Select Children From the Drop Down Menu Field",
+            "match": {
+              "location": "org.adactin.stepdef.Step_Def.user_select_children_from_the_drop_down_menu_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1163312800,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "user Click On the Search Btn and It Navigates To \"Adactin.com-Select Hotel\" Page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Adactin.com-Select Hotel\"",
+                  "offset": 49
+                }
+              ],
+              "location": "org.adactin.stepdef.Step_Def.user_click_on_the_search_btn_and_it_navigates_to_page(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Ad"
+          },
+          {
+            "name": "@Ad2"
+          }
+        ]
+      }
+    ],
+    "name": "Hotel Booking",
+    "description": "",
+    "id": "hotel-booking",
+    "keyword": "Feature",
+    "uri": "file:FeatureFile/Adactin1.feature",
+    "tags": [
+      {
+        "name": "@Ad",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
